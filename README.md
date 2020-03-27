@@ -1,2 +1,5 @@
-# evey-pea
-Evelyn_Paplauskas_T1A3
+# Github Pages 
+
+Learning how to use github page via the GitHub Learnng portal
+
+Creating a new branch
